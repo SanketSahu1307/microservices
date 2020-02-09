@@ -10,6 +10,7 @@ public class ZuulapigatewayApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZuulapigatewayApplication.class, args);
+		System.out.println("Hello world");
 	}
 
 }
